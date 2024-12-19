@@ -1,0 +1,1 @@
+ALTER TABLE filme ADD valor_locacao numeric(4, 2) NOT NULL;
